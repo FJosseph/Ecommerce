@@ -1,0 +1,13 @@
+#form-add-products{
+    display: flex;
+    flex-direction: column;
+    padding: 5%;
+}
+
+.g-2{
+    margin: 10px 0;
+}
+
+#text-form{
+    height: 8em;
+}
